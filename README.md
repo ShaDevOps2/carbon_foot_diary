@@ -1,6 +1,6 @@
 # Carbon Footprint Diary
 
-SDG 13 Flutter Project 
+SDG 13 Sustainable Development Flutter Project 
 
 ## Main Goals of the Project
    
