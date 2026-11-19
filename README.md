@@ -2,7 +2,7 @@
 
 SDG 13 Flutter Project 
 
-1. Main Goals of the Project
+## Main Goals of the Project
    
 The Carbon Footprint Diary project aims to make personal carbon tracking accurate, understandable and visually engaging. Its main goals are:
 
